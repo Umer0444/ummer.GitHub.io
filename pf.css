@@ -1,0 +1,20 @@
+#sec1{
+    height: 300vh;
+ 
+    background-color: black;
+ display: flex;
+}
+#het{
+    height:800px ;
+    background-color: beige;
+}
+#image1{
+    margin-left:75%;
+width: 300px;
+height: 500px;
+}
+#txt{
+    margin-left: 30%;
+ margin-top: 100px;
+    color: white;
+}
